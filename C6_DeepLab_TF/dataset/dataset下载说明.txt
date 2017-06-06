@@ -1,0 +1,6 @@
+1. 百度网盘https://pan.baidu.com/s/1gfpCCwj的C6文件夹中下载SegmentationClassAug.rar, 并解压到当前目录
+
+2. http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar下载voc2012数据集，将里面的JPEGImages文件夹解压出来
+
+注意：该路径下已经有两个文件夹：SegmentationClassAug和JPEGImages。分别对应步骤1和2下载的数据。
+
